@@ -3,4 +3,4 @@
 ## Installation
 Run the installation script:
 ```bash
-sudo ./install_devopsfetch.sh
+sudo ./install.sh
